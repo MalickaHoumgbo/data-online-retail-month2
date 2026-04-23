@@ -18,7 +18,7 @@ Analyse d'un dataset e-commerce de détail en ligne.
 ---
 
 ## Structure du projet
-
+~~~
 data-online-retail-month2/
 ├── datasets/
 │   ├── raw/          # données originales (non versionnées)
@@ -34,7 +34,7 @@ data-online-retail-month2/
 │   └── reports/
 ├── .gitignore
 └── README.md
-
+~~~
 ---
 
 ## Stack technique
