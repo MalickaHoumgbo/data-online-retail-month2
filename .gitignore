@@ -1,0 +1,38 @@
+# ================================
+# DONNÉES — ne jamais versionner
+# ================================
+datasets/raw/
+datasets/processed/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+
+# ================================
+# JUPYTER
+# ================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ================================
+# PYTHON
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# ================================
+# OUTPUTS — optionnel
+# ================================
+# outputs/figures/     
+# outputs/reports/     
+
+# ================================
+# SYSTÈME
+# ================================
+.DS_Store
+Thumbs.db
