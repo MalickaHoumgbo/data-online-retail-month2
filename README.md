@@ -28,7 +28,7 @@ de croissance du chiffre d'affaires et d'élaborer une stratégie pour l'année 
 ---
 
 ## Structure du projet
-
+~~~
 data-online-retail-month2/
 ├── datasets/
 │   ├── raw/          # données originales (non versionnées)
@@ -44,7 +44,7 @@ data-online-retail-month2/
 │   └── reports/
 ├── .gitignore
 └── README.md
-
+~~~
 ---
 
 ## Stack technique
