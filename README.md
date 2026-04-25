@@ -1,19 +1,29 @@
 # data-online-retail-month2
 
 Projet Data Analyst — Mois 2  
-Analyse d'un dataset e-commerce de détail en ligne.
+Analyse d'un jeu de données d'e-commerce de détail en ligne.
 
 ---
 
 ## Contexte métier
 
+Données de transactions d'une boutique en ligne, issues d'une simulation du métier 
 
+de Data Analyst chez TATA sur la plateforme Forage.  
+
+Dataset mis à disposition sur Kaggle. Les prix sont en livres sterling (£).
 
 ---
 
 ## Problématiques
 
+En tant que consultant data, j'aide la boutique à identifier les principaux moteurs 
 
+de croissance du chiffre d'affaires et d'élaborer une stratégie pour l'année suivante.
+
+1. Quels produits, périodes et zones géographiques génèrent le plus de CA ?
+2. Quels clients sont les plus actifs et comment se segmentent-ils ?
+3. Quelles tendances temporelles et anomalies impactent la fiabilité de l'analyse ?
 
 ---
 
@@ -50,7 +60,7 @@ data-online-retail-month2/
 
 | Phase | Statut |
 |---|---|
-| 00 — Reconnaissance | 🔄 En cours |
+| 00 — Reconnaissance |  ✅ Terminée |
 | 01 — Exploration & Nettoyage | ⏳ À faire |
 | 02 — Analyse | ⏳ À faire |
 | 03 — Visualisation | ⏳ À faire |
@@ -60,4 +70,4 @@ data-online-retail-month2/
 
 ## Auteur
 
-MalickaHoumgbo/ GitHub_
+MalickaHoumgbo/ [GitHub](https://github.com/MalickaHoumgbo)
