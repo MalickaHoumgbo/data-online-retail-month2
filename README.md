@@ -1,7 +1,7 @@
 # data-online-retail-month2
 
 Projet Data Analyst — Mois 2  
-Analyse d'un jeu de données d'e-commerce de détail en ligne.
+Analyse d'un jeu de données d'e-commerce de détail.
 
 ---
 
