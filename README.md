@@ -61,7 +61,7 @@ data-online-retail-month2/
 | Phase | Statut |
 |---|---|
 | 00 — Reconnaissance |  ✅ Terminée |
-| 01 — Exploration & Nettoyage | ⏳ À faire |
+| 01 — Exploration & Nettoyage | ✅ Terminée |
 | 02 — Analyse | ⏳ À faire |
 | 03 — Visualisation | ⏳ À faire |
 | 04 — Conclusions | ⏳ À faire |
