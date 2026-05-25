@@ -28,23 +28,23 @@ de croissance du chiffre d'affaires et d'élaborer une stratégie pour l'année 
 ---
 
 ## Structure du projet
-~~~
+```
 data-online-retail-month2/
 ├── datasets/
-│   ├── raw/          # données originales (non versionnées)
-│   └── processed/    # données nettoyées
+│   ├── raw/                          # données originales (non versionnées)
+│   └── processed/                    # données nettoyées
 ├── notebooks/
-│   ├── 00_reconnaissance.ipynb
-│   ├── 02_exploration_et_nettoyage.ipynb
-│   ├── 03_analyse.ipynb
-│   ├── 04_visualisation.ipynb
-│   └── 05_conclusions.ipynb
+│   ├── 00_Reconnaissance.ipynb
+│   ├── 01_Exploration_et_02_nettoyage.ipynb
+│   ├── 03_Analyse.ipynb
+│   ├── 04_Visualisation.ipynb        # à venir
+│   └── 05_Conclusions.ipynb          # à venir
 ├── outputs/
-│   ├── figures/
-│   └── reports/
+│   ├── figures/                      # visualisations exportées
+│   └── reports/                      # rapports (bilan mi-parcours, rapport final)
 ├── .gitignore
 └── README.md
-~~~
+```
 ---
 
 ## Stack technique
@@ -60,11 +60,13 @@ data-online-retail-month2/
 
 | Phase | Statut |
 |---|---|
-| 00 — Reconnaissance |  ✅ Terminée |
-| 01 — Exploration & Nettoyage | ✅ Terminée |
-| 02 — Analyse | ⏳ À faire |
-| 03 — Visualisation | ⏳ À faire |
-| 04 — Conclusions | ⏳ À faire |
+| 00 — Reconnaissance | ✅ Terminée |
+| 01_et_02 — Exploration & Nettoyage | ✅ Terminée |
+| 03 — Analyse | ✅ Terminée |
+| 04 — Visualisation | ⏳ À faire |
+| 05 — IA — Résumé automatique des KPIs | ⏳ À faire |
+| 06 — Conclusions & Recommandations | ⏳ À faire |
+| 07 — Cloud — Lecture BigQuery | ⏳ À faire |
 
 ---
 
