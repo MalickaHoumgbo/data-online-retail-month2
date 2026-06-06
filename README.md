@@ -21,9 +21,9 @@ En tant que consultant data, j'aide la boutique à identifier les principaux mot
 
 de croissance du chiffre d'affaires et d'élaborer une stratégie pour l'année suivante.
 
-1. Quels produits, périodes et zones géographiques génèrent le plus de CA ?
+1. Quels produits, quelles périodes et quelles zones géographiques génèrent le plus de CA ?
 2. Quels clients sont les plus actifs et comment se segmentent-ils ?
-3. Quelles tendances temporelles et anomalies impactent la fiabilité de l'analyse ?
+3. Quelles tendances temporelles et anomalies affectent la fiabilité de l'analyse ?
 
 ---
 
@@ -37,7 +37,7 @@ data-online-retail-month2/
 │   ├── 00_Reconnaissance.ipynb
 │   ├── 01_Exploration_et_02_nettoyage.ipynb
 │   ├── 03_Analyse.ipynb
-│   ├── 04_Visualisation.ipynb        # à venir
+│   ├── 04_Visualisation.ipynb     
 │   └── 05_Conclusions.ipynb          # à venir
 ├── outputs/
 │   ├── figures/                      # visualisations exportées
@@ -63,7 +63,7 @@ data-online-retail-month2/
 | 00 — Reconnaissance | ✅ Terminée |
 | 01_et_02 — Exploration & Nettoyage | ✅ Terminée |
 | 03 — Analyse | ✅ Terminée |
-| 04 — Visualisation | ⏳ À faire |
+| 04 — Visualisation | ✅ Terminée  |
 | 05 — IA — Résumé automatique des KPIs | ⏳ À faire |
 | 06 — Conclusions & Recommandations | ⏳ À faire |
 | 07 — Cloud — Lecture BigQuery | ⏳ À faire |
